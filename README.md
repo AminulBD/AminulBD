@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Aminul Islam, a full-stack developer with 5+ years of experience in JavaScript, PHP, NodeJS, Laravel, Symfony, and WordPress. I'm passionate about building scalable and user-friendly web applications.
+I'm Aminul Islam, a full-stack developer with 7+ years of experience in JavaScript, PHP, NodeJS, Laravel, Symfony, and WordPress. I'm passionate about building scalable and user-friendly web applications.
 
 In my spare time, I enjoy playing video games, reading, and spending time with my family.
 
